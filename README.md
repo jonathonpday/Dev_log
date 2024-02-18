@@ -6,3 +6,9 @@ A log of my development study
 
 - Study CSS layout with Document Flow and start looking at Flexbox.
 - Basic JS scripting for work task.
+- Begin working with tiny CSS projects book.
+
+## 2024-02-17
+
+- Work on Bootcamp JS challenge.
+- Carry on with Tiny CSS Projects.
