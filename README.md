@@ -12,3 +12,8 @@ A log of my development study
 
 - Work on Bootcamp JS challenge.
 - Carry on with Tiny CSS Projects.
+
+## 2024-02-19
+
+- Finish Chapter 2 of Tint CSS with Grid
+- [Focus on Grid on Josh Comeau blog as well](https://www.joshwcomeau.com/css/interactive-guide-to-grid)
