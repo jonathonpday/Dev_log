@@ -15,5 +15,6 @@ A log of my development study
 
 ## 2024-02-19
 
-- Finish Chapter 2 of Tint CSS with Grid
+- Finish Chapter 2 of Tiny CSS with Grid
 - [Focus on Grid on Josh Comeau blog as well](https://www.joshwcomeau.com/css/interactive-guide-to-grid)
+- Start SVG Project for Tiny CSS.
