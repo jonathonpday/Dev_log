@@ -18,3 +18,11 @@ A log of my development study
 - Finish Chapter 2 of Tiny CSS with Grid
 - [Focus on Grid on Josh Comeau blog as well](https://www.joshwcomeau.com/css/interactive-guide-to-grid)
 - Start SVG Project for Tiny CSS.
+
+## 2024-02-20
+
+- Look at Grid example in course and start to build.
+
+## 2024-02-21
+
+- Start tutorial to build linkTree clone.
