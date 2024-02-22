@@ -1,4 +1,4 @@
-# Developer log
+d# Developer log
 
 A log of my development study
 
@@ -26,3 +26,9 @@ A log of my development study
 ## 2024-02-21
 
 - Start tutorial to build linkTree clone.
+
+## 2024-02-21
+
+- Continue with tutorial to build linkTree Clone.
+- Work on JS scripting challenges.
+- Look at further study options for JavaScript & React.
