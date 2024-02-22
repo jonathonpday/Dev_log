@@ -1,4 +1,4 @@
-d# Developer log
+## Developer log
 
 A log of my development study
 
