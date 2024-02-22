@@ -27,7 +27,7 @@ A log of my development study
 
 - Start tutorial to build linkTree clone.
 
-## 2024-02-21
+## 2024-02-22
 
 - Continue with tutorial to build linkTree Clone.
 - Work on JS scripting challenges.
