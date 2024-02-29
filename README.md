@@ -32,3 +32,8 @@ A log of my development study
 - Continue with tutorial to build linkTree Clone.
 - Work on JS scripting challenges.
 - Look at further study options for JavaScript & React.
+
+## 2024-02-29
+
+- Work on JS tutorial.
+- Begin to look at react and other projects.
