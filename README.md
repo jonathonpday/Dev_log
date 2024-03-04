@@ -37,3 +37,7 @@ A log of my development study
 
 - Work on JS tutorial.
 - Begin to look at react and other projects.
+
+## 2024-03-04
+
+- Work on Bootcamp 2024 by Brad Schiff
