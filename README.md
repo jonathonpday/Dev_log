@@ -41,3 +41,7 @@ A log of my development study
 ## 2024-03-04
 
 - Work on Bootcamp 2024 by Brad Schiff
+
+## 2024-03-11
+
+- Refresh commit to focussing on again with **Jonas Schmedtmann**
