@@ -45,3 +45,4 @@ A log of my development study
 ## 2024-03-11
 
 - Refresh commit to focussing on again with **Jonas Schmedtmann**
+- Specifically HTML & CSS, JavaScript and React.
