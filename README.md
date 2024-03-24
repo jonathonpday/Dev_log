@@ -46,3 +46,8 @@ A log of my development study
 
 - Refresh commit to focussing on again with **Jonas Schmedtmann**
 - Specifically HTML & CSS, JavaScript and React.
+
+## 2024-03-24
+
+- Work on React with **Jonas Schmedtmann**
+- Started React course and now reviewing JS concepts starting with Destructuring.
