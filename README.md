@@ -51,3 +51,8 @@ A log of my development study
 
 - Work on React with **Jonas Schmedtmann**
 - Started React course and now reviewing JS concepts starting with Destructuring.
+
+## 2024-04-18
+
+- Review situation and look to learn quickly to gain job.
+- Complete Chapter on JS Course.
